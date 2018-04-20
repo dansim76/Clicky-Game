@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu",
+        "image":"https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Jiggly Puff",
+        "image": "https://media.giphy.com/media/eXUlPn1gmZavu/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "ditto",
+        "image": "https://media.giphy.com/media/HtqFbL7el09oY/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Meowth",
+        "image": "https://media.giphy.com/media/MziKDo6gO7x8A/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "squirtle",
+        "image": "https://media.giphy.com/media/LxSFsOTa3ytEY/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Psyduck",
+        "image": "https://media.giphy.com/media/xwsuHAY3oLT68/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Bulbasaur",
+        "image": "https://media.giphy.com/media/12UJ8i70PQt6yQ/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Snorlax",
+        "image": "https://media.giphy.com/media/5RxNQCK01NdAc/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Charmander",
+        "image": "https://media.giphy.com/media/12x9ULoiHxqs92/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Slowpoke",
+        "image": "https://media.giphy.com/media/AAY5orhYr4TdK/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "EEveee",
+        "image": "https://media.giphy.com/media/2ObMRv4QwO5XO/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "magikarp",
+        "image": "https://media.giphy.com/media/tTSn8V8szr72g/giphy.gif",
+        "clicked": false
+    }
+]

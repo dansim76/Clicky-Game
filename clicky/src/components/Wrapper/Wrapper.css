@@ -1,0 +1,10 @@
+.wrapper{
+    background-image: url("http://freehdwallpapers.website/wp-content/uploads/2016/07/143snorlax1920x1200.jpg");
+    
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    height: 100%
+}
+
