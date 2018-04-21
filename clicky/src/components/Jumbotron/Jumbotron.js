@@ -4,8 +4,9 @@ const Jumbotron = () => (
   <div className="jumbotron">
     <h1>Pokemon Clicky Game!</h1>
     <p>
-      Click on an Pokemon to earn points, but dont click on any more than once!  Gotta Catchem All!
+      Click on an Pokemon to earn points, but dont click on any more than once!
     </p>
+    <p>Gotta Catchem All!</p>
   </div>
 );
 
